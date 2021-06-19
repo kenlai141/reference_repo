@@ -7,4 +7,5 @@
 ## Django
 
 1. [Askbot](https://github.com/ASKBOT/askbot-devel)
+2. [Sentry](https://github.com/getsentry/sentry)
 
