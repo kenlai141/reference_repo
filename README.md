@@ -19,3 +19,4 @@
 ## NestJs
 
 1. [awesome-nestjs](https://github.com/nestjs/awesome-nestjs)
+2. [dynamodb](https://github.com/baseprime/dynamodb)
